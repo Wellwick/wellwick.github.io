@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a Software Developer working at Autodesk in the UK. I'm a moderator on the [Parahumans Discord](https://discord.gg/TYsRHpG) where I help develop the primary bot and run a campaign of Weaverdice (a Dungeons and Dragons style game but with superheroes). I also do my best to dabble in writing, though I haven't published much at all. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mbbexley@hotmail.co.uk](mailto:mbbexley@hotmail.co.uk)
