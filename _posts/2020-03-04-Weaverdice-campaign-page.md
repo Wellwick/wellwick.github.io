@@ -24,3 +24,9 @@ end of the URL), but underneath Pitchford, it is still falling back to the same
 404 page. Without being able to see under the hood what Jekyll is doing, I may 
 need to repurpose the 404 page for being more general, or altenatively, put 
 this blog under a subdirectory of it's own.
+
+EDIT: So, I ended up making a different repo for Pitchford, still with the same 
+address. I think this is likely to work better, since I can mess around with 
+stuff under that subdirectory without there being significant issues. It does 
+take a while to build though, because the theme I'm using is pretty hefty 
+compared to the boring old default Jekyll this blog is using.
