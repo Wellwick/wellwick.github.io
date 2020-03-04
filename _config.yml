@@ -52,6 +52,7 @@ baseurl: ""
 # Custom variables for Pitchford
 pitchford:
   name: Pitchford Weaverdice Campaign
+  description:
   avatar:
   
 
