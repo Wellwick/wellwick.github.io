@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.pitchford.name }}</title>
 
     {% include meta.html %}
 
@@ -9,8 +9,8 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/Pitchford/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.pitchford.name }}" href="{{ site.baseurl }}/Pitchford/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -19,16 +19,17 @@
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.pitchford.avatar }}" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site..pitchford.name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Testing</a>
-            <a href="{{ site.baseurl }}/about">Alternative</a>
+            <a href="{{ site.baseurl }}/Pitchford/">Homepage</a>
+            <a href="{{ site.baseurl }}/Pitchford/Characters">Characters</a>
+            <a href="{{ site.baseurl }}/Pitchford/Timeline">Timeline</a>
           </nav>
         </header>
       </div>
@@ -41,7 +42,7 @@
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
-          {% include svg-icons.html %}
+          {% include pitchford-credits.html %}
         </footer>
       </div>
     </div>
