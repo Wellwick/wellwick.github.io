@@ -5,7 +5,7 @@ tags: weaverdice pitchford worm gamemaster website
 ---
 
 If you've ever met me, you know I'm very into the web serial 
-[Worm](https://parahumans.wordpress.net/). I talk about it a lot, I'm a 
+[Worm](https://parahumans.wordpress.com/). I talk about it a lot, I'm a 
 moderator on a Discord server dedicated to it's authors works and I've run a 
 fair few Weaverdice games in my time, a tabletop game in the style of 
 Dungeons and Dragons, but set in the world of Worm.
