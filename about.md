@@ -9,17 +9,15 @@ for over a decade now. The dog over there isn't actually me (believe it or not),
 but I thought I could spare you from my face and show you my dog at the same 
 time. Her name is Ruby and she is lovely.
 
-I'm a Software Developer currently working at Autodesk in the UK. I graduated 
+I'm a Software Engineer currently at Studio Gobo making games. I graduated 
 from Warwick back in 2018 with a MEng Computer Science degree. I'm a moderator 
 on the [Parahumans Discord](https://discord.gg/TYsRHpG) where I help develop the 
-primary bot and run a campaign of Weaverdice (a Dungeons and Dragons style game 
-but with superheroes). I also do my best to dabble in writing, though I haven't 
-published much at all.
+primary bot. I run a regular Dungeons and Dragons game for a few friends and do
+my best to dabble in writing, though I haven't published much at all.
 
-One day I'd love to do some game developement or something in that vein, but 
-there's a lot of work between here and there. Sometimes I work on a graphics 
-tablet I own in an attempt to get better at drawing, but it's by far my weakest 
-creative skill. Still all things take practice!
+I spend most of my days making games in Unreal and loving every minute of it.
+It's been a dream since I was young to make games, so don't give up on those
+ambitions, kids.
 
 ### Contact me
 
