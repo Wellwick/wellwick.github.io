@@ -3,18 +3,18 @@ layout: quills
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
-    {% if post.tags contains site.tags.quills %}
-      <article class="post">
+  {% assign posts_with_quills =  site.posts | where_exp:"item",
+  "item.tags contains 'quills'" %}
+  {% for post in posts_with_quills %}
+    <article class="post">
 
-      <h1><a href="{{ site.quillsurl }}{{ post.url }}">{{ post.title }}</a></h1>
+    <h1><a href="{{ site.quillsurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-          {{ post.excerpt }}
-      </div>
+    <div class="entry">
+        {{ post.excerpt }}
+    </div>
 
-      <a href="{{ site.quillsurl }}{{ post.url }}" class="read-more">Read More</a>
-      </article>
-    {% endif %}
+    <a href="{{ site.quillsurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endfor %}
 </div>
