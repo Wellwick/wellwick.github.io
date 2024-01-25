@@ -3,9 +3,8 @@ layout: default
 ---
 
 <div class="posts">
-  {% assign posts_without_quills =  site.posts | where_exp:"item",
-  "not item.tags contains 'quills'" %}
-  {% for post in posts_without_quills %}
+  {% assign posts_with_blog = site.posts | where_exp:"item", "item.tags contains 'blog'" %}
+  {% for post in posts_with_blog %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
