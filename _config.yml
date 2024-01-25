@@ -11,6 +11,15 @@ description: Developer and writer.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/wellwick/wellwick.github.io/master/images/dog.jpg
 
+# Name of quills subsite
+quillsname: The Quills of Springdew
+
+# Short bio of campaign
+quillsdescription: A Dungeon and Dragons campaign.
+
+# URL of the Quills Avatar
+quillsavatar: https://raw.githubusercontent.com/wellwick/wellwick.github.io/master/images/springdew.jpg
+
 #
 # Flags below are optional
 #
@@ -48,6 +57,9 @@ url:
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
+
+# Quills suburl
+quillsurl: "/Quills"
 
 # Custom variables for Pitchford
 pitchford:
