@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: blog
 title: Developing the Pitchford website
 tags: weaverdice pitchford worm gamemaster website
 ---

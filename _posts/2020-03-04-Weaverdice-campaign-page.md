@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: blog
 title: Creating a webpage for a Weaverdice campaign
 tags: weaverdice pitchford worm gamemaster website
 ---

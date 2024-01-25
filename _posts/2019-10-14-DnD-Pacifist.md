@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: blog
 title: Pacifist Dungeons and Dragons
 tags: dnd sleet
 ---

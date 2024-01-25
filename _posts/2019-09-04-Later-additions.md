@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: blog
 title: Cleanup
 ---
 

@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: blog
 title: Making Games
 tags: game-development Unreal Gobo Norian projects
 ---

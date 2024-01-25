@@ -1,5 +1,6 @@
 ---
 layout: post
+tags: blog
 title: What does a reader need to know?
 tags: killing_floor writing
 ---
