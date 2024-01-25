@@ -1,5 +1,5 @@
 ---
-layout: quillspage
+layout: page
 title: Quills of Springdew About
 permalink: /Quills/about/
 ---

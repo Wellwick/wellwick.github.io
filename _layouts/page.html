@@ -1,5 +1,9 @@
 ---
-layout: default
+{ %if page.tags contains "quills" %}
+  layout: quills
+{ %else %}
+  layout: default
+{ %endif %}
 ---
 
 <article class="page">
