@@ -1,5 +1,5 @@
 ---
-layout: quillspage
+layout: page
 title: Quills of Springdew Sessions
 permalink: /Quills/sessions/
 ---
