@@ -1,8 +1,7 @@
 ---
 layout: post
-tags: blog
 title: Pacifist Dungeons and Dragons
-tags: dnd sleet
+tags: blog dnd sleet
 ---
 
 Recently I've been playing a Dungeons and Dragons campaign where my character 

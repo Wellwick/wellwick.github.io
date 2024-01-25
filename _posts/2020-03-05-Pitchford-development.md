@@ -1,8 +1,7 @@
 ---
 layout: post
-tags: blog
 title: Developing the Pitchford website
-tags: weaverdice pitchford worm gamemaster website
+tags: blog weaverdice pitchford worm gamemaster website
 ---
 
 So, I'm starting to make progress on the 

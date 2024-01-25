@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: blog
 title: Cleanup
+tags: blog
 ---
 
 I wasn't quite happy with everything that I had done. My username at the top is 

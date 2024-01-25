@@ -1,8 +1,7 @@
 ---
 layout: post
-tags: blog
 title: What does a reader need to know?
-tags: killing_floor writing
+tags: blog killing_floor writing
 ---
 
 I've started reading Killing Floor by Lee Child. The author might sound 

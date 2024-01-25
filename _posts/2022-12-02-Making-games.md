@@ -1,8 +1,7 @@
 ---
 layout: post
-tags: blog
 title: Making Games
-tags: game-development Unreal Gobo Norian projects
+tags: blog game-development Unreal Gobo Norian projects
 ---
 
 Well, it's been a while. Over two years have passed since I last wrote something

@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: blog
 title: Up and running!
+tags: blog
 ---
 
 This is forked work from the 

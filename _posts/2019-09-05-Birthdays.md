@@ -1,7 +1,7 @@
 ---
 layout: post
-tags: blog
 title: Birthday presents
+tags: blog
 ---
 
 It's one of my oldest friends birthday today, so I thought I'd take the chance
