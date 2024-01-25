@@ -3,7 +3,7 @@ layout: quills
 ---
 
 <div class="posts">
-  {% assign posts_with_quills =  site.posts | where_exp:"item", "item.tags contains 'quills'" %}
+  {% assign posts_with_quills = site.quillsposts | where_exp:"item", "item.tags contains 'quills'" %}
   {% for post in posts_with_quills %}
     <article class="post">
 
